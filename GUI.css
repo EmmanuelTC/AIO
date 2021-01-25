@@ -27,7 +27,7 @@
   --purpleDark: #432870;
   --blurple: #7289da;
   --nitro: #ff73fa;
-  --TB-position-top: calc(var(--server-size) + 20px) ;
+  --TB-position-top: calc(var(--server-size) + 100px) ;
 }
 
 .platform-win .wrapper-1Rf91z .scroller-2TZvBN {
